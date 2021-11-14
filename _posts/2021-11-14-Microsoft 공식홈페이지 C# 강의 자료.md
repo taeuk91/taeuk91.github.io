@@ -3,8 +3,6 @@ layout: archive
 title:  "Microsoft 공식홈페이지 C# 강의 자료"
 ---
 
-# Microsoft 공식홈페이지 C# 강의 자료
-
 # C# 설명서
 
 .NET 플랫폼에서 C# 프로그래밍 언어를 사용하여 애플리케이션을 작성하는 방법에 대해 알아봅니다.
